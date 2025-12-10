@@ -1,8 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/4M7IWwP.gif" width="100%" alt="Banner">
-</p>
-
 <h1 align="center">👋 Hi, I'm <span style="color:#4CAF50">Firdos Mohammed</span></h1>
 
 <p align="center">
