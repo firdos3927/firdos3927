@@ -21,25 +21,6 @@ I enjoy building modern platforms that solve real community problems and improvi
 
 ---
 
-# 💼 Experience
-
-### 🔹 **App Factory Academy — Developer & Project Manager**  
-📅 *Jan 2024 – Sep 2025 | Kombolcha, Ethiopia*
-
-- Led development of the **Kombolcha City Plan & Report System**  
-- Managed project workflow and coordinated team collaboration  
-- Designed and developed features using **MongoDB, Express, React, Node.js**  
-- Performed testing, debugging, and performance optimization  
-
-### 🔹 **App Factory Academy — Intern Developer**  
-📅 *Jul 2024 – Sep 2024*
-
-- Developed user interfaces using **React + Tailwind CSS**  
-- Contributed to backend development with **Node.js and MongoDB**  
-- Participated in UX improvements, debugging, and code reviews  
-
----
-
 # 🚀 Tech Stack
 
 ### 🌐 Frontend
@@ -60,33 +41,6 @@ I enjoy building modern platforms that solve real community problems and improvi
 ### ⚙ Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,cloudflare,figma" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=firdos3927&theme=onedark&row=1&column=6" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firdos3927&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firdos3927&theme=radical" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdos3927&layout=compact&theme=radical" />
-</p>
-
----
-
-# 🔥 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firdos3927&theme=react-dark" />
 </p>
 
 ---
@@ -119,14 +73,6 @@ A system designed for managing stocks and supporting business networking.
 - **Other:** Prisma, Cloudinary, REST APIs, Chapa Payment  
 - **Version Control:** Git & GitHub  
 - **Soft Skills:** Problem-solving, Teamwork, Communication  
-
----
-
-# 🏅 Award
-
-### 🥉 **THRIVE Hackathon 2017 — 3rd Place**  
-🏢 Organized by Qelem Meda Technologies  
-🔗 https://qelemmeda.com/
 
 ---
 
