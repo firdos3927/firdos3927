@@ -45,25 +45,6 @@ I enjoy building modern platforms that solve real community problems and improvi
 
 ---
 
-# 🧩 Featured Projects
-
-### 🔹 **Delala Platform**  
-A local job-matching platform empowering workers and customers.
-
-### 🔹 **Atlas Website**  
-A modern full-stack company website with interactive UI.  
-🔗 https://atlascomputer.netlify.app/
-
-### 🔹 **Kocha Travel System**  
-A travel booking and management system.
-
-### 🔹 **Kombolcha City Plan & Report System**  
-An official digital platform for managing city plans and reports.
-
-### 🔹 **Stock Market & Entrepreneur Networking Platform**  
-A system designed for managing stocks and supporting business networking.
-
----
 
 # 🧠 Skills Summary
 
