@@ -10,11 +10,11 @@
 # 🧑‍💻 About Me
 
 I am a passionate and solution-driven **Software Engineer** specializing in both frontend and backend development.  
-I recently graduated with a **Bachelor of Science in Software Engineering ** from **Wollo University**.
+I recently graduated with a Bachelor of Science in Software Engineering from Wollo University.
 
 I enjoy building modern platforms that solve real community problems and improving system performance through efficient code and clean architecture.
 
-📍 **Dessie / Kombolcha, Ethiopia**  
+📍 **Dessie, Ethiopia**  
 🌐 **Portfolio:** https://firdos-mohammed.netlify.app  
 📧 **Email:** mohammedfirdos9980@gmail.com  
 📞 **Phone:** +251 994 601 581  
